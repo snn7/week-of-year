@@ -1,2 +1,8 @@
-# week-of-year
-which week of year
+# Week of Year
+
+
+#### How to use:
+
+```
+$('input[name="weekofyear"]').weekofyear();
+```
