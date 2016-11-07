@@ -4,5 +4,5 @@
 #### How to use:
 
 ```
-$('input[name="weekofyear"]').weekofyear();
+$('input[name="weekofyear"]').weekOfyYear();
 ```
